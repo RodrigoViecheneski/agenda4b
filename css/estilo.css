@@ -1,0 +1,18 @@
+body{
+	margin: 0 auto;
+	width: 1024px;
+	background-color: #d6d6c2;
+}
+header{
+	position: relative;
+	background: linear-gradient(gray, #d6d6c2);
+	height: 200px;
+}
+footer{
+	background: linear-gradient(#d6d6c2, gray);
+	height: 150px;
+}
+
+img{
+	width: 19%;
+}
