@@ -16,7 +16,7 @@
 		$fn = new Funcoes();
 	?>
 	<hr>
-	<h1>Corpo da Agenda</h1>
+	<h1>Corpo da Agenda teste</h1>
 	<hr>
 	<br>
 		<?php if($usuarios->temPermissao('ADD')): ?><button><a href="adicionar_contato.php">ADICIONAR</a></button>
